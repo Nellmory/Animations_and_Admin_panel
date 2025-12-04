@@ -4,7 +4,7 @@
 Реализованый UI админ панели c некоторыми интерактивными элементами.
 
 ## Демонстрация работы
-[Видео-демонстрация работы экрана с анимациями](https://drive.google.com/file/d/1t73Hs67I3nQ5xT0CtH2O2kKyeU5wUIBD/view?usp=drivesdk)
+[Видео-демонстрация работы экрана с анимациями](https://drive.google.com/file/d/1t73Hs67I3nQ5xT0CtH2O2kKyeU5wUIBD/view?usp=drivesdk)<br>
 [Видео-демонстрация работы админ_панели](https://drive.google.com/file/d/1hDhaczXWQnY4F65pLeyY-o9lgSglxzcS/view?usp=sharing)
 
 ## Запуск
@@ -22,6 +22,5 @@
 
 2. Экран админ панели<br>
    **Ссылка на референс:** [Admin_panel](https://avada-media.com/ru/expertise/web-development/admin-panels/)
-2. 
-   <img src="assets/admin.png" width="280" style="border-radius:20px;"/>
-   
+ 
+   <img src="assets/admin.png" height="280" style="border-radius:20px;"/>
